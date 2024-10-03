@@ -21,7 +21,6 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
   <tr>
     <td><b>Week</b></td>
     <td><b>Challenge</b></td>
-    <td><b>Skills Tested</b></td>
     <td><b>My Solutions</b></td>
   </tr>
   
@@ -35,12 +34,10 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
   <a href="https://mystery.knightlab.com/">SQL Murder Mystery</a>&nbsp;&nbsp;
     </td>
     <td>
-      ```WHERE``` ```JOIN``` ```GROUP BY``` ```LIKE```<br>```Subquery``` & ```CTE``` (optional)
-    </td>
-    <td>
       Solution
     </td>
   </tr>
+
 
   <tr>
     <td>
@@ -51,12 +48,10 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
   Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-1/">Danny's Diner</a>&nbsp;&nbsp;
     </td>
     <td>
-      ```RANK``` ```CASE``` ```Dates``` ```SCALAR``` ```CTE```
-    </td>
-    <td>
       Solution
     </td>
   </tr>
+
 
    <tr>
     <td>
@@ -64,19 +59,126 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
     </td>
     <td>
 
-  Preppin' Data:<br> <a href="https://www.db-fiddle.com/f/4uSAnphHZSbqtT1bDpoF6/2">2023- Week 1</a>&nbsp;&nbsp;
-                <br> <a href="https://www.db-fiddle.com/f/3v4bL8eiG3AbCzHLbFFKky/0">2023- Week 2</a>&nbsp;&nbsp;
-                <br> <a href="https://www.db-fiddle.com/f/xs4cAti1arhPD1ZwjJS9Qb/0">2023- Week 3</a>&nbsp;&nbsp;
-                <br> <a href="https://www.db-fiddle.com/f/no57WpxKESkM7K6dWickxP/1">2023- Week 4</a>&nbsp;&nbsp;
+  Preppin' Data:<br> <a href="https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html">2023- Week 1</a>&nbsp;&nbsp;
+                <br> <a href="https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html">2023- Week 2</a>&nbsp;&nbsp;
+                <br> <a href="https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html">2023- Week 3</a>&nbsp;&nbsp;
+                <br> <a href="https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html">2023- Week 4</a>&nbsp;&nbsp;
     </td>
     <td>
-      ```SPLIT_PART``` ```REPLACE``` ```UNION``` ```ROW_NUMBER``` ```PIVOT``` ```CTE```
+      Solution Week 1
+      <br>Solution Week 2
+      <br>Solution Week 3
+      <br>Solution Week 4
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      4
     </td>
     <td>
-      Solution
+
+  Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-2/">Pizza Runner</a>&nbsp;&nbsp;
+    </td>
+    <td>
+      Solution A
+      <br>Solution B
+      <br>Solution C
+      <br>Solution D
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      5
+    </td>
+    <td>
+
+  Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-3/">Foodie-Fi</a>&nbsp;&nbsp;
+    </td>
+    <td>
+      Solution A
+      <br>Solution B
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      6
+    </td>
+    <td>
+
+  Preppin' Data:<br> <a href="https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html">2023- Week 5</a>&nbsp;&nbsp;
+                <br> <a href="https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html">2023- Week 6</a>&nbsp;&nbsp;
+                <br> <a href="https://preppindata.blogspot.com/2023/02/2023-week-7-flagging-fraudulent.html">2023- Week 7</a>&nbsp;&nbsp;
+                <br> <a href="https://preppindata.blogspot.com/2023/02/2023-week-8-taking-stock.html">2023- Week 8</a>&nbsp;&nbsp;
+    </td>
+    <td>
+      Solution Week 5
+      <br>Solution Week 6
+      <br>Solution Week 7
+      <br>Solution Week 8
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      8
+    </td>
+    <td>
+
+  Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-4/">Data Bank Section A</a>&nbsp;&nbsp;
+    </td>
+    <td>
+      Solution A
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      9
+    </td>
+    <td>
+
+  Preppin' Data:<br> <a href="https://preppindata.blogspot.com/2023/03/2023-week-9-customer-bank-statements.html">2023- Week 9</a>&nbsp;&nbsp;
+                <br> <a href="https://preppindata.blogspot.com/2023/03/2023-week-10-whats-my-balance-on-this.html">2023- Week 10</a>&nbsp;&nbsp;
+                <br> <a href="https://preppindata.blogspot.com/2023/03/2023-week-11-which-customers-are-closest.html">2023- Week 11</a>&nbsp;&nbsp;
+                <br> <a href="https://preppindata.blogspot.com/2023/03/2023-week-12-regulatory-reporting.html">2023- Week 12</a>&nbsp;&nbsp;
+    </td>
+    <td>
+      Solution Week 9
+      <br>Solution Week 10
+      <br>Solution Week 11
+      <br>Solution Week 12
     </td>
   </tr>
   
+
+  <tr>
+    <td>
+      10
+    </td>
+    <td>
+
+  Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-4/">Data Bank Section B</a>&nbsp;&nbsp;
+    </td>
+    <td>
+      Solution B
+    </td>
+  </tr>
+
+
+    
+<!--     <td><b>Skills Tested</b></td> -->
+<!--         <td>
+      ```WHERE``` ```JOIN``` ```GROUP BY``` ```LIKE```<br>```Subquery``` & ```CTE``` (optional)
+    </td> -->
+
 
 <!--
 | Week | Challenge         | Skills Tested | Solutions                                                |
