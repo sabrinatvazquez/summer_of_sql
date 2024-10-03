@@ -6,9 +6,9 @@ This is my repo for my solutions for this amazing challenge led by [Will Sutton]
 
 #### Disclaimers:
 Of note, there are sometimes:
--  multiple ways to solve a question,
--  different was of interpreting a question,
--  and variations in SQL dialects (I will primarily be using Snowflake)
+-  multiple ways to solve a question
+-  different ways of interpreting a question
+-  variations in SQL dialects (I will primarily be using Snowflake)
 
 Your answer may be different from mine and that's ok! 
 
@@ -34,7 +34,7 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
   <a href="https://mystery.knightlab.com/">SQL Murder Mystery</a>&nbsp;&nbsp;
     </td>
     <td>
-      Solution
+      [Solution](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/murder_mystery/sql_murder_mystery.sql)
     </td>
   </tr>
 
@@ -45,10 +45,10 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
     </td>
     <td>
 
-  Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-1/">Danny's Diner</a>&nbsp;&nbsp;
+  Data with Danny<br><a href="https://8weeksqlchallenge.com/case-study-1/">Case 1- Danny's Diner</a>&nbsp;&nbsp;
     </td>
     <td>
-      Solution
+      [Solution](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/data_with_danny/case_study_1_danny's_diner/danny's_diner.sql)
     </td>
   </tr>
 
@@ -59,16 +59,16 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
     </td>
     <td>
 
-  Preppin' Data:<br> <a href="https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html">2023- Week 1</a>&nbsp;&nbsp;
+  Preppin' Data<br> <a href="https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html">2023- Week 1</a>&nbsp;&nbsp;
                 <br> <a href="https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html">2023- Week 2</a>&nbsp;&nbsp;
                 <br> <a href="https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html">2023- Week 3</a>&nbsp;&nbsp;
                 <br> <a href="https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html">2023- Week 4</a>&nbsp;&nbsp;
     </td>
     <td>
-      Solution Week 1
-      <br>Solution Week 2
-      <br>Solution Week 3
-      <br>Solution Week 4
+      [Solution Week 1](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_1.sql)
+      <br>[Solution Week 2](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_2.sql)
+      <br>[Solution Week 3](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_3.sql)
+      <br>[Solution Week 4](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_4.sql)
     </td>
   </tr>
 
@@ -79,13 +79,13 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
     </td>
     <td>
 
-  Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-2/">Pizza Runner</a>&nbsp;&nbsp;
+  Data with Danny<br><a href="https://8weeksqlchallenge.com/case-study-2/">Case 2- Pizza Runner</a>&nbsp;&nbsp;
     </td>
     <td>
-      Solution A
-      <br>Solution B
-      <br>Solution C
-      <br>Solution D
+      [Solution A](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/data_with_danny/case_study_2_pizza_runner/pizza_runner_A.sql)
+      <br>[Solution B](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/data_with_danny/case_study_2_pizza_runner/pizza_runner_B.sql)
+      <br>[Solution C](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/data_with_danny/case_study_2_pizza_runner/pizza_runner_C.sql)
+      <br>[Solution D](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/data_with_danny/case_study_2_pizza_runner/pizza_runner_D.sql)
     </td>
   </tr>
 
@@ -96,11 +96,11 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
     </td>
     <td>
 
-  Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-3/">Foodie-Fi</a>&nbsp;&nbsp;
+  Data with Danny<br><a href="https://8weeksqlchallenge.com/case-study-3/">Case 3- Foodie-Fi</a>&nbsp;&nbsp;
     </td>
     <td>
-      Solution A
-      <br>Solution B
+      [Solution A](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/data_with_danny/case_study_3_foodie-fi/foodie-fi_A.sql)
+      <br>[Solution B](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/data_with_danny/case_study_3_foodie-fi/foodie-fi_B.sql)
     </td>
   </tr>
 
@@ -111,16 +111,16 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
     </td>
     <td>
 
-  Preppin' Data:<br> <a href="https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html">2023- Week 5</a>&nbsp;&nbsp;
+  Preppin' Data<br> <a href="https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html">2023- Week 5</a>&nbsp;&nbsp;
                 <br> <a href="https://preppindata.blogspot.com/2023/02/2023-week-6-dsb-customer-ratings.html">2023- Week 6</a>&nbsp;&nbsp;
                 <br> <a href="https://preppindata.blogspot.com/2023/02/2023-week-7-flagging-fraudulent.html">2023- Week 7</a>&nbsp;&nbsp;
                 <br> <a href="https://preppindata.blogspot.com/2023/02/2023-week-8-taking-stock.html">2023- Week 8</a>&nbsp;&nbsp;
     </td>
     <td>
-      Solution Week 5
-      <br>Solution Week 6
-      <br>Solution Week 7
-      <br>Solution Week 8
+      [Solution Week 5](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_5.sql)
+      <br>[Solution Week 6](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_6.sql)
+      <br>[Solution Week 7](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_7.sql)
+      <br>[Solution Week 8](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_8.sql)
     </td>
   </tr>
 
@@ -131,10 +131,10 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
     </td>
     <td>
 
-  Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-4/">Data Bank Section A</a>&nbsp;&nbsp;
+  Data with Danny<br><a href="https://8weeksqlchallenge.com/case-study-4/">Case 4- Data Bank Section A</a>&nbsp;&nbsp;
     </td>
     <td>
-      Solution A
+      [Solution A](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/data_with_danny/case_study_4_data_bank/data_bank_A.sql)
     </td>
   </tr>
 
@@ -145,16 +145,16 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
     </td>
     <td>
 
-  Preppin' Data:<br> <a href="https://preppindata.blogspot.com/2023/03/2023-week-9-customer-bank-statements.html">2023- Week 9</a>&nbsp;&nbsp;
+  Preppin' Data<br> <a href="https://preppindata.blogspot.com/2023/03/2023-week-9-customer-bank-statements.html">2023- Week 9</a>&nbsp;&nbsp;
                 <br> <a href="https://preppindata.blogspot.com/2023/03/2023-week-10-whats-my-balance-on-this.html">2023- Week 10</a>&nbsp;&nbsp;
                 <br> <a href="https://preppindata.blogspot.com/2023/03/2023-week-11-which-customers-are-closest.html">2023- Week 11</a>&nbsp;&nbsp;
                 <br> <a href="https://preppindata.blogspot.com/2023/03/2023-week-12-regulatory-reporting.html">2023- Week 12</a>&nbsp;&nbsp;
     </td>
     <td>
-      Solution Week 9
-      <br>Solution Week 10
-      <br>Solution Week 11
-      <br>Solution Week 12
+      [Solution Week 9](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_9.sql)
+      <br>[Solution Week 10](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_9.sql)
+      <br>[Solution Week 11](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_9.sql)
+      <br>[Solution Week 12](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/preppin'_data/preppin_data_2023_week_9.sql)
     </td>
   </tr>
   
@@ -165,10 +165,10 @@ Share your progress on social media using the hashtags **#SummerofSQL** and **#d
     </td>
     <td>
 
-  Data with Danny:<br> <a href="https://8weeksqlchallenge.com/case-study-4/">Data Bank Section B</a>&nbsp;&nbsp;
+  Data with Danny<br><a href="https://8weeksqlchallenge.com/case-study-4/">Case 4- Data Bank Section B</a>&nbsp;&nbsp;
     </td>
     <td>
-      Solution B
+      [Solution B](https://github.com/sabrinatvazquez/sabrinatvazquez.github.io/blob/main/sql_challenges/data_with_danny/case_study_4_data_bank/data_bank_B.sql)
     </td>
   </tr>
 
